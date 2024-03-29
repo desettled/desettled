@@ -26,7 +26,7 @@ Emily.interests = ["Web", "Machine Learning", "Digital design", "Editing", "Art"
  
 // Hobbies 
 Emily.art = "Painting";
-Emily.isBookLover = true;
+Emily.isFashionLover = true;
  
 // Career 
 while (!Emily.isSuccessful()) {
