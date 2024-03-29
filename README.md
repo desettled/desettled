@@ -38,10 +38,12 @@ while (!Emily.isSuccessful()) {
 };
 ```
 
+<img align="right" src="https://31.media.tumblr.com/94662d938159594cd1f1309588cc7360/tumblr_msu2iw8okg1scncwdo1_500.gif" alt="Mario" width="160"/>
+
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
-
+   
 ###  Let's connect and chat!
 Open to anything under the sun.
     
@@ -51,3 +53,4 @@ Open to anything under the sun.
   </td>
   </tr>
 </table>
+    
