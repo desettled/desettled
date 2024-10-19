@@ -14,30 +14,6 @@
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-### More about me!
-
-```javascript
-// Life 
-const Emily = new Person("Emily Costain");
- 
-Emily.age = 18;
-Emily.major = "BS. Industrial Engineering";
-Emily.interests = ["Web", "Machine Learning", "Digital design", "Editing", "Art"];
- 
-// Hobbies 
-Emily.art = "Painting";
-Emily.isFashionLover = true;
- 
-// Career 
-while (!Emily.isSuccessful()) {
-    try {
-        Emily.work();
-    } catch(error) {
-        Emily.learn(error);
-    }
-};
-```
-
 <img align="right" src="https://31.media.tumblr.com/94662d938159594cd1f1309588cc7360/tumblr_msu2iw8okg1scncwdo1_500.gif" alt="Mario" width="160"/>
 
 <table style="border: none">
